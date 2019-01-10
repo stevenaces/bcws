@@ -1,0 +1,2 @@
+# bcws
+Consistent Weighted Sampling
